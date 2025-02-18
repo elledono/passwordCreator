@@ -7,8 +7,7 @@ This simple little console app allows you to quickly generate up to ten password
 of a specified length. It could be useful in creating a more secure password that is not 
 as easily guessed as a password that contained actual phrases. It will give you a mix of
 symbols, numbers, upper and lowercase letters.
-
-## Getting Started
+***This code is for educational purposes so use for actual real-world applications at your own risk.***
 
 ### Dependencies
 
@@ -30,7 +29,7 @@ Elle Donovan
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for more information
+This project is licensed under the MIT License - see the LICENSE.md file for more information
 
 ## Acknowledgments
 
